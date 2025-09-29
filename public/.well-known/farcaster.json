@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "JackpotJester",
+    "subtitle": "Built with Zara",
+    "description": "JackpotJester is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://916d08ef54204f36a02605524ad99da9-leap.vercel.app",
+    "splashImageUrl": "https://916d08ef54204f36a02605524ad99da9-leap.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://916d08ef54204f36a02605524ad99da9-leap.vercel.app/image.png",
+    "tagline": "JackpotJester",
+    "screenshotUrls": [
+      "https://916d08ef54204f36a02605524ad99da9-leap.vercel.app/screenshot.png",
+      "https://916d08ef54204f36a02605524ad99da9-leap.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://916d08ef54204f36a02605524ad99da9-leap.vercel.app/api/webhook"
+  }
+}
